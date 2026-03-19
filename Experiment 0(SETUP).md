@@ -3,14 +3,14 @@
 To create a database and create tables with appropriate constraints.
 ---
 ## Problem Statement  
-1. Create a database named 2CSE18_0151.  
+1. Create a database named 2CSE18_0190.  
 2. Create EMPLOYEE and DEPARTMENT tables with given constraints.
 ---
 # Step 1: Create Database
 ### Query
-CREATE DATABASE 2CSE18_0151;
+CREATE DATABASE 2CSE18_0190;
 ### Use Database
-USE 2CSE18_0151;
+USE 2CSE18_0190;
 ### Output  
 Database created and selected successfully.
 ---
