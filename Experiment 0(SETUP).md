@@ -98,4 +98,4 @@ SELECT * FROM EMPLOYEE;
 14 rows in set.
 ---
 ## Conclusion  
-Database 2CSE18_0151 and required tables were successfully created with constraints and data inserted.
+Database 2CSE18_0190 and required tables were successfully created with constraints and data inserted.
